@@ -1,6 +1,7 @@
 .display-button {
     position: relative;
     padding: 16px;
+    border: 1px solid #e6e7eb;
   }
   
   .display-button button {

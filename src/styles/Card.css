@@ -50,11 +50,13 @@
     align-items: center;
     gap: 4px;
     padding: 2px 8px;
-    background: #ebecf0;
+    background: white;
     border-radius: 4px;
     font-size: 13px;
     color: #6b6f76;
+    border: 1px solid #e0e0e0; 
   }
+  
   
   .feature-request svg {
     flex-shrink: 0;

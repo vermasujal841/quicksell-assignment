@@ -2,14 +2,14 @@
     display: flex;
     gap: 20px;
     padding: 20px;
-    background-color: #f4f5f8;
+    background-color: #F5F5F5;
     min-height: calc(100vh - 60px);
   }
   
   .column {
     flex: 1;
     min-width: 300px;
-    background-color: #f4f5f8;
+    background-color: #F5F5F5;
   }
   
   .column-header {
